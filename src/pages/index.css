@@ -1,0 +1,29 @@
+.form-label {
+  color: #8a8484;
+  font-weight: 500;
+}
+.submit-button {
+  background-color: #3d54e8;
+  border: #8a8484;
+}
+.submit-button:hover {
+  background-color: #6f82fd;
+}
+.details-wrapper {
+  border: 1px solid rgb(196, 190, 190);
+  padding: 20px;
+}
+.go-back-btn {
+  background-color: #3d54e8;
+  border: #6f82fd;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.go-back-btn:hover {
+  background-color: #6f82fd;
+}
+.go-back-wrapper {
+  display: flex;
+  justify-content: center;
+}

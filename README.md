@@ -1,3 +1,13 @@
+# first run ths following command
+
+npm i
+
+to install all libraries
+
+# json server
+
+for testing please use json server, and create endf point with name posts, and fields will be (id, title, description, user_id)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +78,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# redux-router-crud-free-template
